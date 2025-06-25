@@ -1,4 +1,4 @@
-package org.ex9.behavioral.chainOfResponsibility;
+package org.ex9.behavioral.chain;
 
 /**
  *  Абстрактный узел цепочки «Цепочка обязанностей».

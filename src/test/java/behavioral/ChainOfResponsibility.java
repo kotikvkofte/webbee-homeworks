@@ -1,10 +1,10 @@
 package behavioral;
 
-import org.ex9.behavioral.chainOfResponsibility.Handler;
-import org.ex9.behavioral.chainOfResponsibility.HeightHandler;
-import org.ex9.behavioral.chainOfResponsibility.Order;
-import org.ex9.behavioral.chainOfResponsibility.WidthHandler;
-import org.ex9.behavioral.chainOfResponsibility.WeightHandler;
+import org.ex9.behavioral.chain.Handler;
+import org.ex9.behavioral.chain.HeightHandler;
+import org.ex9.behavioral.chain.Order;
+import org.ex9.behavioral.chain.WidthHandler;
+import org.ex9.behavioral.chain.WeightHandler;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

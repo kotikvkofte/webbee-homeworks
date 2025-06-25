@@ -1,4 +1,4 @@
-package org.ex9.behavioral.chainOfResponsibility;
+package org.ex9.behavioral.chain;
 
 /**
  * Заказ (груз), который будет проходить через цепочку зависимостей.

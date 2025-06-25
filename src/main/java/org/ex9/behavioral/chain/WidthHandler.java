@@ -1,4 +1,4 @@
-package org.ex9.behavioral.chainOfResponsibility;
+package org.ex9.behavioral.chain;
 
 /**
  * Узел цепочки обязанностей, который обеспечивает проверку

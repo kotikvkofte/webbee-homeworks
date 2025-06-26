@@ -1,8 +1,8 @@
 package structural;
 
-import org.ex9.structural.Proxy.Door;
-import org.ex9.structural.Proxy.FlatDoor;
-import org.ex9.structural.Proxy.Intercom;
+import org.ex9.structural.proxy.Door;
+import org.ex9.structural.proxy.FlatDoor;
+import org.ex9.structural.proxy.Intercom;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

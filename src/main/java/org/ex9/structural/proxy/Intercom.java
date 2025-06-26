@@ -1,4 +1,4 @@
-package org.ex9.structural.Proxy;
+package org.ex9.structural.proxy;
 
 /**
  * Прокси-объект - "домофон", который проверяет введенный пин-код,

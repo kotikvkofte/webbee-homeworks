@@ -1,4 +1,4 @@
-package org.ex9.structural.Proxy;
+package org.ex9.structural.proxy;
 
 /**
  * Реализация обычной двери.

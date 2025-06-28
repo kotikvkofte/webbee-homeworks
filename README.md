@@ -56,5 +56,12 @@
 
 - Пример: Developer, Analyst, Tester, Organization
 
+## Порождающие шаблоны (Creational)
 
+### Prototype — creational.prototype
 
+Клонирование объектов без знания их конкретных классов.
+
+- Каждая фигура реализует интерфейс Figure с методом copy().
+
+- Пример: Circle, Rectangle, Point

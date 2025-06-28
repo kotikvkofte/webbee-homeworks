@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.observer;
 
 import org.ex9.behavioral.observer.TelegramChannel;
 import org.ex9.behavioral.observer.TelegramUser;

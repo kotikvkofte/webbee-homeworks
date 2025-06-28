@@ -16,6 +16,10 @@ public interface Employee {
      */
     double getSalary();
 
+    /**
+     * Задает зарплату сотруднику.
+     * @param salary новая зарплата сотрудника.
+     */
     void setSalary(double salary);
 
     /**

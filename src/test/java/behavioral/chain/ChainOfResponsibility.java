@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.chain;
 
 import org.ex9.behavioral.chain.Handler;
 import org.ex9.behavioral.chain.HeightHandler;

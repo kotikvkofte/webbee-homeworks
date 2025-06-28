@@ -1,4 +1,4 @@
-package creational;
+package creational.prototype;
 
 import org.ex9.creational.prototype.Circle;
 import org.ex9.creational.prototype.Figure;

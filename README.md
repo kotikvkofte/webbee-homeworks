@@ -56,7 +56,6 @@
 
 - Пример: Developer, Analyst, Tester, Organization
 
-
 ## Порождающие шаблоны (Creational)
 
 ### Prototype — creational.prototype

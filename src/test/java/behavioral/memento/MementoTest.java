@@ -1,4 +1,4 @@
-package behavioral;
+package behavioral.memento;
 
 import org.ex9.behavioral.memento.GameHistory;
 import org.ex9.behavioral.memento.Hero;

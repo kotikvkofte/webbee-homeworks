@@ -1,4 +1,4 @@
-package structural;
+package structural.composite;
 
 import org.ex9.structural.composite.Analyst;
 import org.ex9.structural.composite.Developer;
